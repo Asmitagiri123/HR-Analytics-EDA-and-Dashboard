@@ -43,6 +43,9 @@ The dataset contains employee information such as:
 * Standardized column names
 * Prepared data for analysis and visualization
 
+  <img width="630" height="708" alt="Screenshot 2026-06-17 193747" src="https://github.com/user-attachments/assets/e4094b0f-361a-4dc7-aaac-082e33c971aa" />
+
+
 ### 2. Exploratory Data Analysis (EDA)
 
 * Employee distribution by age group
@@ -52,9 +55,15 @@ The dataset contains employee information such as:
 * Salary distribution analysis
 * Tenure and promotion impact analysis
 
+  <img width="863" height="687" alt="image" src="https://github.com/user-attachments/assets/cb427ab9-41c1-409d-8ae0-eb5cd04aeca0" />
+
+
 ### 3. Correlation Analysis
 
 Correlation analysis was performed to identify relationships between employee attributes and attrition-related factors.
+
+<img width="777" height="675" alt="image" src="https://github.com/user-attachments/assets/1b55f5ca-5285-4d5a-bcd9-e15a1b69be15" />
+
 
 ### 4. Dashboard Development
 
@@ -76,6 +85,9 @@ Key metrics:
 * Average Tenure: 7.01 Years
 * Attrition Rate: 16.08%
 
+  <img width="828" height="697" alt="Screenshot 2026-06-17 192503" src="https://github.com/user-attachments/assets/6ffb2010-4f9b-418c-956c-3a75b7f3c62f" />
+
+
 Insights:
 
 * Employees aged 18–25 show the highest attrition.
@@ -92,6 +104,9 @@ Key drivers analyzed:
 * Job Level
 * Tenure
 * Promotion Gap
+
+<img width="830" height="697" alt="Screenshot 2026-06-17 192514" src="https://github.com/user-attachments/assets/2493c587-fa54-49b9-ac43-c072d7921a4d" />
+
 
 Insights:
 
